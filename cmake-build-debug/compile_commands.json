@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/program/include -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o program/CMakeFiles/Program.dir/src/main.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/program/src/main.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/program/src/main.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Board.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Board.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Board.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Field.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Field.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Field.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Stop.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Stop.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Stop.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Player.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Player.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Player.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Game.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Game.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Game.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/menagers/PlayerMenager.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/menagers/PlayerMenager.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/menagers/PlayerMenager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/menagers/BoardMenager.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/menagers/BoardMenager.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/menagers/BoardMenager.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/Pawn.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Pawn.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/Pawn.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/Library.dir/src/model/HumanPlayer.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/HumanPlayer.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/src/model/HumanPlayer.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/master.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/master.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/master.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/BoardTest.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/BoardTest.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/BoardTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/FieldTest.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/FieldTest.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/FieldTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/PawnTest.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/PawnTest.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/PawnTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/PlayerTest.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/PlayerTest.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/PlayerTest.cpp"
+},
+{
+  "directory": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/cmake-build-debug",
+  "command": "/usr/bin/g++ -I/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/include -g3 -gdwarf-4 -std=gnu++11 -o library/CMakeFiles/LibraryTest.dir/test/GameTest.cpp.o -c /home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/GameTest.cpp",
+  "file": "/home/student/CLionProjects/projekcik/atom_sr_0830_07/project2/atom_sr_0830_07/project/library/test/GameTest.cpp"
+}
+]

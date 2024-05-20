@@ -1,0 +1,13 @@
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/CMakeFiles/test.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/program/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/program/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/program/CMakeFiles/Program.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/program/CMakeFiles/test.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/test.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/check.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/Library.dir
+/home/student/CLionProjects/projekcik/atom_sr_0830_07/project/build/library/CMakeFiles/LibraryTest.dir
